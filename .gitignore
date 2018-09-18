@@ -9,3 +9,5 @@ functions/lib/
 .firebaserc
 /appengine/dist/
 serviceAccount.json
+*.log
+*.log
