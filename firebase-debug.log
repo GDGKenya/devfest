@@ -1,0 +1,18 @@
+[debug] [2018-09-18T22:34:22.682Z] ----------------------------------------------------------------------
+[debug] [2018-09-18T22:34:22.704Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Maye\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-09-18T22:34:22.705Z] CLI Version:   4.0.3
+[debug] [2018-09-18T22:34:22.705Z] Platform:      win32
+[debug] [2018-09-18T22:34:22.705Z] Node Version:  v9.1.0
+[debug] [2018-09-18T22:34:22.707Z] Time:          Wed Sep 19 2018 01:34:22 GMT+0300 (E. Africa Standard Time)
+[debug] [2018-09-18T22:34:22.707Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-09-18T22:34:22.833Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-09-18T22:34:22.836Z] > authorizing via signed-in user
+[debug] [2018-09-18T22:34:22.846Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/eventsbymaye  
+  
+ Wed Sep 19 2018 01:34:22 GMT+0300 (E. Africa Standard Time)
+[debug] [2018-09-18T22:34:24.668Z] <<< HTTP RESPONSE 200
+[debug] [2018-09-18T22:34:24.672Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/eventsbymaye/tokens  
+  
+ Wed Sep 19 2018 01:34:24 GMT+0300 (E. Africa Standard Time)
+[debug] [2018-09-18T22:34:25.586Z] <<< HTTP RESPONSE 200
