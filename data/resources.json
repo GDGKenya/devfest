@@ -1,17 +1,17 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "DevFest Nairobi",
+  "description": "Developer Conference for the Community by the Community",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "dates": "September 22, 2018",
+  "partnershipProposition": "https://devfestnairobi.gdgkenya.org",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Reserve Seat",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -36,18 +36,18 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Nairobi",
+          "url": "https://devfestnairobi.gdgkenya.org",
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
+          "name": "GDG",
+          "url": "https://devfestnairobi.gdgkenya.org",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://devfestnairobi.gdgkenya.orgteam/",
           "newTab": true
         }
       ]
@@ -55,24 +55,20 @@
     {
       "title": "Explore Past DevFests",
       "links": [
+       
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "DevFest NBO 2017",
+          "url": "",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "DevFest NBO 2016",
+          "url": "",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevFest NBO 2015",
+          "url": "",
           "newTab": true
         }
       ]
@@ -82,22 +78,22 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "",
           "newTab": true
         },
         {
@@ -114,12 +110,12 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "DevFest Nairobi brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "link": ""
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
@@ -127,15 +123,15 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "1000"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "40"
       },
       "tracks": {
         "label": "Tracks",
@@ -143,13 +139,7 @@
       }
     }
   },
-  "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
-  },
+ 
   "partnersBlock": {
     "title": "Partners",
     "button": "Become a partner",
@@ -162,10 +152,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFest Nairobi Featured Videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": ""
     }
   },
   "blog": {
@@ -199,11 +189,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "2017 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": ""
     }
   },
   "mapBlock": {
@@ -218,7 +208,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about DevFest Nairobi sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -227,7 +217,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [GDG (GDG) Lviv](https://devfestnairobi.gdgkenya.org) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -260,7 +250,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://gdgkenya.org' target='_blank'>GDG Nairobi</a> is proud organizer of DevFest Nairobi",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -268,10 +258,10 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers.",
         "callToAction": {
           "label": "Read more",
-          "link": "https://developers.google.com/groups/",
+          "link": "https://developers.google.com/programs/community/gdg/",
           "newTab": true
         }
       }

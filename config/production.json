@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://eventsbymaye.firebaseio.com",
+  "analytics": "UA-109001280-1",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyC3QMww9wVQECb1mdmbSh3cOlARsEuyjA0",
+    "authDomain": "eventsbymaye.firebaseapp.com",
+    "databaseURL": "https://eventsbymaye.firebaseio.com",
+    "projectId": "eventsbymaye",
+    "storageBucket": "eventsbymaye.appspot.com",
+    "messagingSenderId": "332910327270"
   },
-  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+  "googleMapApiKey": "AIzaSyCdOcBTPu2_d-6mB47t_dcchX7Mc8lA01U"
 }
