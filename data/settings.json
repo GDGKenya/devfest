@@ -2,8 +2,8 @@
   "organizer": {
     "name": "GDG Nairobi",
     "twitter": "gdg_nairobi",
-    "blog": "",
-    "url": ""
+    "blog": "https://medium.com/gdg-nairobi",
+    "url": "https://www.meetup.com/GDG-Nairobi/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "United States International University - Africa",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -118,13 +118,13 @@
     "short": "USIU-Africa",
     "address": "Kasarani area, off Thika Road, Nairobi",
     "pointer": {
-      "latitude": -1.21973165,
-      "longitude": 36.87934053431388,
+      "latitude": -1.2126029,
+      "longitude": 36.8792002,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -1.2126029,
+      "longitude": 36.8792002
     },
     "description": "This venue fulfills the needs of the large-scale event"
   },
@@ -221,7 +221,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 4
     }
   }
 }

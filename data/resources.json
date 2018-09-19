@@ -1,6 +1,6 @@
 {
   "title": "DevFest Nairobi",
-  "description": "Developer Conference for the Community by the Community",
+  "description": "Developer Conference for the Community by the Community in Narobi, Kenya",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "September 22, 2018",
@@ -91,7 +91,7 @@
       },
       "howItWas": {
         "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "label": "See how it was in 2017",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
@@ -141,7 +141,7 @@
     "title": "The latest news",
     "callToAction": {
       "label": "View all stories",
-      "link": "/blog/"
+      "link": "https://medium.com/gdg-nairobi"
     }
   },
   "speakers": {
@@ -221,7 +221,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/gallery/roina.JPG",
     "blocks": [
       {
         "title": "Organizer",
