@@ -1,9 +1,9 @@
 {
-  "title": "DevFest Nairobi",
+  "title": "DevFest Nairobi 2019",
   "description": "Developer Conference for the Community by the Community in Narobi, Kenya",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 22, 2018",
+  "dates": "October 18 - 19 2019",
   "partnershipProposition": "https://devfestnairobi.gdgkenya.org",
   "share": "Share",
   "followOur": "Follow our",
@@ -57,7 +57,7 @@
       "links": [
        
         {
-          "name": "DevFest 2017",
+          "name": "DevFest 2018",
           "url": "",
           "newTab": true
         }
