@@ -38,7 +38,7 @@
     "/images/gallery/devfestnairobi5.jpg",
     "/images/gallery/devfestnairobi6.jpg",
     "/images/gallery/devfestnairobi7.jpg",
-    "/images/gallery/devfestnairobi8.jpg"
+    "/images/gallery/devfestnairobi19.jpg"
   ],
   "notifications" : {
     "config" : {
@@ -1179,9 +1179,72 @@
     "title" : "Program Committee"
   } ],
 
+  "tickets" : [ {
+    "available" : true,
+    "currency" : "$",
+    "ends" : "Oct 13",
+    "info" : "Requires valid student/lecturer ID",
+    "name" : "EDU",
+    "price" : 5,
+    "soldOut" : false,
+    "starts" : "Feb 7",
+    "url" : "https://www.meetup.com/GDG-Nairobi/events/255086069/"
+  }, {
+    "available" : false,
+    "currency" : "$",
+    "ends" : "Mar 31",
+    "inDemand" : false,
+    "info" : "Or first 50 tickets",
+    "name" : "Pre Early Bird",
+    "price" : 10,
+    "regular" : true,
+    "soldOut" : true,
+    "starts" : "Feb 7",
+    "url" : "https://www.meetup.com/GDG-Nairobi/events/255086069/"
+  }, {
+    "available" : true,
+    "currency" : "$",
+    "ends" : "Jun 30",
+    "inDemand" : true,
+    "info" : "Or first 200 tickets",
+    "name" : "Early Bird",
+    "price" : 15,
+    "regular" : true,
+    "soldOut" : false,
+    "starts" : "Feb 7",
+    "url" : "https://www.meetup.com/GDG-Nairobi/events/255086069/"
+  }, {
+    "available" : true,
+    "currency" : "$",
+    "ends" : "Sep 30",
+    "inDemand" : true,
+    "info" : "Or first 350 tickets",
+    "name" : "Regular",
+    "price" : 20,
+    "primary" : true,
+    "regular" : true,
+    "soldOut" : false,
+    "starts" : "Jul 1",
+    "url" : "https://www.meetup.com/GDG-Nairobi/events/255086069/"
+  }, {
+    "available" : true,
+    "currency" : "$",
+    "info" : "Money worth nothing when you love it",
+    "name" : "I Love DFUA",
+    "price" : 50,
+    "soldOut" : false,
+    "url" : "https://www.meetup.com/GDG-Nairobi/events/255086069/"
+  } ],
+
   "triggers" : {
     "images" : false
   },
+
+
+
+
+
+  
   "videos" : [ {
     "speakers" : "Yonatan Levin",
     "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
@@ -1293,6 +1356,10 @@
     "title" : "100x impact - from an Individual Contributor to Technical Leader",
     "youtubeId" : "O1dtdDpQXU8"
   } ],
+
+
+
+
   "previousSpeakers": {
     "adrian_kajda" : {
       "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
@@ -2080,4 +2147,5 @@
       "title" : "Senior Android Developer"
     }
   }
+  
 }

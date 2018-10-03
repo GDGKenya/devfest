@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "United States International University - Africa",
+      "description": "KICC, Nairobi",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -113,18 +113,18 @@
   },
   "location": {
     "label": "Location",
-    "name": "United States International University - Africa",
+    "name": "KICC, Nairobi",
     "city": "Nairobi",
-    "short": "USIU-Africa",
+    "short": "",
     "address": "Kasarani area, off Thika Road, Nairobi",
     "pointer": {
-      "latitude": -1.2126029,
-      "longitude": 36.8792002,
+      "latitude": -1.285448,
+      "longitude": 36.823165,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": -1.2126029,
-      "longitude": 36.8792002
+      "latitude": -1.285448,
+      "longitude": 36.823165
     },
     "description": "This venue fulfills the needs of the large-scale event"
   },
